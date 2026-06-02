@@ -46,12 +46,17 @@ Since this involves copyrighted software and the use of certain workarounds to g
 ## The Sims Complete Collection
 1. Install The Sims Complete Collection with Start.exe
 2. After installation, copy the No-CD Patch to the Program files/maxis/ folder
-— Make sure to own a copy of the game and only use the No-CD Patch to get it work on your system
+- Make sure to own a copy of the game and only use the No-CD Patch to get it work on your system
 3. Place the mods in the downloads folder from Program files/maxis/ folder
 4. Unzip the mods in the folder (cannot be done on the CD)
-— You can use the mods by placing them in your house in the build mode, and let your sim interact with it. It makes playing this game much easier!
+- You can use the mods by placing them in your house in the build mode, and let your sim interact with it. It makes playing this game much easier!
 5. Start the game with the 1024x768 option
-— The game won’t start or give you a black screen with the wrong resolution set in Windows
-— If you want to play in full-screen, first go to Full screen, then check the resolution is still 1024x768 and then start the game
+- The game won’t start or give you a black screen with the wrong resolution set in Windows
+- If you want to play in full-screen, first go to Full screen, then check the resolution is still 1024x768 and then start the game
 
 Start the game and enjoy!! 
+
+# Support my work? 
+If you like this guide and want to support my work, you can use the link below to buy me a coffee. Every bit of support is appreciated and helps me continue creating new content.
+
+Buy me a Coffee: https://buymeacoffee.com/geejee
