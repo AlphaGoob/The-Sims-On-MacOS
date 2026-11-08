@@ -99,4 +99,4 @@ Start the game and enjoy!!
 # Support my work? 
 If you like this guide and want to support my work, you can use the link below to buy me a coffee. Every bit of support is appreciated and helps me continue creating new content.
 
-Buy me a Coffee: https://buymeacoffee.com/geejee
+Buy me a Coffee: https://buymeacoffee.com/GJ3D
